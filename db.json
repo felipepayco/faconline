@@ -1,0 +1,10 @@
+[
+    {
+    "facturaId": 1,
+    "nombres": "Pruebas",
+    "identificacionEmpresa": "idEmpresa",
+    "fecha": "fecha",
+    "total": 15000,
+    "iva": 120
+    }
+]
