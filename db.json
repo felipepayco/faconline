@@ -1,5 +1,6 @@
 [
      {
+            "Faconline": "1",
             "numDoc": "1045",
             "nombreSN": "Juan ",
             "codigoSN": "1194418306",
@@ -10,7 +11,8 @@
             "Monto": 157000000,
             "abono":5
         },
-        {
+        {   
+            "Faconline": "1",
             "numDoc": "1045",
             "nombreSN": "Juan ",
             "codigoSN": "1194418306",
@@ -21,7 +23,8 @@
             "Monto": 157000000,
             "abono":5
         },
-        {
+        {   
+            "Faconline": "1",
             "numDoc": "1045",
             "nombreSN": "Juan ",
             "codigoSN": "1194418306",
