@@ -1,7 +1,7 @@
 {
     "facturas":[
      {
-            "Faconline": "1",
+            "Faconline": 1,
             "numDoc": "1045",
             "nombreSN": "Juan ",
             "codigoSN": "1194418306",
@@ -13,7 +13,7 @@
             "abono":5
         },
         {   
-            "Faconline": "2",
+            "Faconline": 2,
             "numDoc": "1045",
             "nombreSN": "Juan ",
             "codigoSN": "1194418306",
@@ -25,7 +25,7 @@
             "abono":5
         },
         {   
-            "Faconline": "3",
+            "Faconline": 3,
             "numDoc": "1045",
             "nombreSN": "Juan ",
             "codigoSN": "1194418306",
