@@ -1,9 +1,31 @@
 {
     "facturas": [{
-            "numDoc": "0001",
+            "numDoc": "1045",
             "nombreSN": "Juan ",
             "codigoSN": "1194418306",
             "fecha": "17/11/2021",
+            "montoOriginal": 15000000,
+            "imptoCliente": 150000,
+            "dctoInt": 35000,
+            "Monto": 157000000,
+            "abono":5
+        }
+        {
+            "numDoc": "1045",
+            "nombreSN": "Juan ",
+            "codigoSN": "1194418306",
+            "fecha": "04/03/2024",
+            "montoOriginal": 15000000,
+            "imptoCliente": 150000,
+            "dctoInt": 35000,
+            "Monto": 157000000,
+            "abono":5
+        }
+        {
+            "numDoc": "1045",
+            "nombreSN": "Juan ",
+            "codigoSN": "1194418306",
+            "fecha": "04/03/2022",
             "montoOriginal": 15000000,
             "imptoCliente": 150000,
             "dctoInt": 35000,
