@@ -1,5 +1,5 @@
-{
-    "facturas": [{
+[
+     {
             "numDoc": "1045",
             "nombreSN": "Juan ",
             "codigoSN": "1194418306",
@@ -33,4 +33,3 @@
             "abono":5
         }
     ]
-}
