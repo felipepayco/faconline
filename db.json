@@ -9,7 +9,7 @@
             "montoOriginal": 15000000,
             "imptoCliente": 150000,
             "dctoInt": 35000,
-            "Monto": 157000000,
+            "Monto": 110000.0,
             "abono":5
         },
         {   
@@ -21,7 +21,7 @@
             "montoOriginal": 15000000,
             "imptoCliente": 150000,
             "dctoInt": 35000,
-            "Monto": 157000000,
+            "Monto": 110000.0,
             "abono":5
         },
         {   
@@ -33,7 +33,7 @@
             "montoOriginal": 15000000,
             "imptoCliente": 150000,
             "dctoInt": 35000,
-            "Monto": 157000000,
+            "Monto": 110000.0,
             "abono":5
         }
     ]
