@@ -1,6 +1,5 @@
 {
     "facturas":[
-[
     {
         "contrato_id": 9456,
         "codigo": "1",
@@ -23,4 +22,5 @@
         "cuotas_vencidad": 1,
         "deuda": 75000.0
     }
-]
+ ]
+}
